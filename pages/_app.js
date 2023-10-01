@@ -1,4 +1,6 @@
 import React from 'react';
+// add bootstrap css 
+import 'bootstrap/dist/css/bootstrap.css'
 import { useEffect } from 'react';
 import { Toaster } from 'react-hot-toast';
 import { Layout } from '../components';
